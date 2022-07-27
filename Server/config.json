@@ -1,0 +1,34 @@
+[
+  {
+    "player_name": "test player name",
+    "username": "testplayer",
+    "password":  "password",
+
+    "settings": [
+      {
+        "game": "game1",
+        "duration_mins": 10
+      },
+      {
+        "game": "game2",
+        "duration_mins": 20
+      }
+    ]
+  },
+  {
+    "player_name": "testplayer2",
+    "username": "testplayer2",
+    "password": "password",
+
+    "settings": [
+      {
+        "game": "game1",
+        "duration_mins": 10
+      },
+      {
+        "game": "game2",
+        "duration_mins": 20
+      }
+    ]
+  }
+]

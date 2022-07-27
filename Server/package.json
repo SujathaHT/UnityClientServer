@@ -1,0 +1,23 @@
+{
+  "name": "ggj22-mpg-server",
+  "version": "1.0.0",
+  "description": "global game jam 22 multi player game serer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sujatha-Nagarajan/ggj22mpg.git"
+  },
+  "author": "Sujatha Nagarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sujatha-Nagarajan/ggj22mpg/issues"
+  },
+  "homepage": "https://github.com/Sujatha-Nagarajan/ggj22mpg#readme",
+  "dependencies": {
+    "uuid-random": "^1.3.2",
+    "ws": "^8.8.1"
+  }
+}
